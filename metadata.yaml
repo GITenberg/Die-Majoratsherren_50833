@@ -1,0 +1,31 @@
+_repo: Die-Majoratsherren_50833
+contributor:
+  illustrator:
+    agent_name: Kubin, Alfred
+    birthdate: 1877
+    deathdate: 1959
+    gutenberg_agent_id: '39044'
+    url: http://www.gutenberg.org/2009/agents/39044
+creator:
+  author:
+    agent_name: Arnim, Ludwig Achim, Freiherr von
+    aliases:
+    - Arnim, Achim von
+    - Arnim, L. Achim (Ludwig Achim), Freiherr von
+    - Arnim, Karl Joachim Friedrich Ludwig, Freiherr von
+    birthdate: 1781
+    deathdate: 1831
+    gutenberg_agent_id: '848'
+    url: http://www.gutenberg.org/2009/agents/848
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_Achim_von_Arnim
+description: ''
+gutenberg_issued: '2016-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50833'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Die Majoratsherren
+url: http://www.gutenberg.org/ebooks/50833
